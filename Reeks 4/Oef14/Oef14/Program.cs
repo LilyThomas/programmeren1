@@ -16,7 +16,7 @@ namespace Oef14
                 Console.WriteLine("Number?");
                 getal = int.Parse(Console.ReadLine());
 
-                if (getal > max)
+                if (getal > max || max == END_VALUE)
                 {
                     max = getal;
                     maxCount = 1;
@@ -27,15 +27,8 @@ namespace Oef14
                 }
             } while (getal != END_VALUE);
 
-            if(max == END_VALUE)
-            {
-                max = 0;
-            }
-
             Console.WriteLine(max);
             Console.WriteLine(maxCount);
-
-
         }
     }
 }

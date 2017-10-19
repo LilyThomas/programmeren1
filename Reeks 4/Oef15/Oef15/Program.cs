@@ -6,34 +6,28 @@ namespace Oef15
     {
         public static void Main(string[] args)
         {
-            const int END_VALUE = -32768;
-			int getal;
-            int min = 9999;
-			int minCount = 0;
+			int getal = int.Parse(Console.ReadLine());
+			int min = getal;
+			int minCount = 1;
 
-			do
+			while (getal != -32768)
 			{
-				Console.WriteLine("Number?");
-				getal = int.Parse(Console.ReadLine());
-
-                if (getal < min )
+				if (getal < min)
 				{
 					min = getal;
                     minCount = 1;
 				}
-				else if (getal == min && getal != END_VALUE)
+				else if (getal == min)
 				{
                     minCount++;
 				}
-			} while (getal != END_VALUE);
 
-			if (min == END_VALUE)
-			{
-				min = 0;
+				getal = int.Parse(Console.ReadLine());
 			}
 
+
 			Console.WriteLine(min);
-            Console.WriteLine(minCount);
+			Console.WriteLine(minCount);
 		}
     }
 }

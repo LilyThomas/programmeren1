@@ -6,9 +6,12 @@ namespace Oef16
     {
         public static void Main(string[] args)
         {
-            int number;
-            int prevNumber;
+			int getal1 = 1, getal2 = 0;
 
+			while (getal1 > getal2)
+			{
+				getal2 = getal1;
+				getal1 = int.Parse(Console.ReadLine());
         }
     }
 }

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{D5CE676F-CC9A-4307-855C-BB9695A9248E}</ProjectGuid>
+    <ProjectGuid>{5EA5F1C6-FE24-4852-8712-ECF6A4A8A95B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Oef16</RootNamespace>
     <AssemblyName>Oef16</AssemblyName>
