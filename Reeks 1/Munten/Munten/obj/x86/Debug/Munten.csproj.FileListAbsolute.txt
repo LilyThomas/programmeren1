@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Munten/Munten/bin/Debug/Munten.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Munten/Munten/bin/Debug/Munten.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Munten/Munten/obj/x86/Debug/Munten.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Munten/Munten/obj/x86/Debug/Munten.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Munten/Munten/obj/x86/Debug/Munten.pdb

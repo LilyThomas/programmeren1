@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Meeting2/Meeting2/bin/Debug/Meeting2.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Meeting2/Meeting2/bin/Debug/Meeting2.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Meeting2/Meeting2/obj/x86/Debug/Meeting2.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Meeting2/Meeting2/obj/x86/Debug/Meeting2.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Meeting2/Meeting2/obj/x86/Debug/Meeting2.pdb

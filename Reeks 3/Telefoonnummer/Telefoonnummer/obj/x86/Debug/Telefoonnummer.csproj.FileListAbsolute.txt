@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/reeks 3/Telefoonnummer/Telefoonnummer/bin/Debug/Telefoonnummer.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Telefoonnummer/Telefoonnummer/bin/Debug/Telefoonnummer.pdb
+/Users/lily/Documents/school/programmeren_1/reeks 3/Telefoonnummer/Telefoonnummer/obj/x86/Debug/Telefoonnummer.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/reeks 3/Telefoonnummer/Telefoonnummer/obj/x86/Debug/Telefoonnummer.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Telefoonnummer/Telefoonnummer/obj/x86/Debug/Telefoonnummer.pdb

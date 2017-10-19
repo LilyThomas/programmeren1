@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C338DA6B-04BE-43FA-9A6D-6EE07747B5C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Balk/Program.cs">
+    <Files>
+      <File FileName="Balk/Program.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Balk PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

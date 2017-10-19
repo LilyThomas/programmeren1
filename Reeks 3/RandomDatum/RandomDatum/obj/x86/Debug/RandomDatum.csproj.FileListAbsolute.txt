@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/reeks 3/RandomDatum/RandomDatum/obj/x86/Debug/RandomDatum.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/reeks 3/RandomDatum/RandomDatum/bin/Debug/RandomDatum.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/RandomDatum/RandomDatum/bin/Debug/RandomDatum.pdb
+/Users/lily/Documents/school/programmeren_1/reeks 3/RandomDatum/RandomDatum/obj/x86/Debug/RandomDatum.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/RandomDatum/RandomDatum/obj/x86/Debug/RandomDatum.pdb

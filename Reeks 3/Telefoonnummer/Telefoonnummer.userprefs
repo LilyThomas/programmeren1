@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BCF39C15-C79B-4F96-B8F1-0586590F770A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Telefoonnummer/Program.cs">
+    <Files>
+      <File FileName="Telefoonnummer/Program.cs" Line="29" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Telefoonnummer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

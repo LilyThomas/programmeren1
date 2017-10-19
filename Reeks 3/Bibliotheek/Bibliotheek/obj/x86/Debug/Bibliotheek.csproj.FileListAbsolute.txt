@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/reeks 3/Bibliotheek/Bibliotheek/bin/Debug/Bibliotheek.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Bibliotheek/Bibliotheek/bin/Debug/Bibliotheek.pdb
+/Users/lily/Documents/school/programmeren_1/reeks 3/Bibliotheek/Bibliotheek/obj/x86/Debug/Bibliotheek.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/reeks 3/Bibliotheek/Bibliotheek/obj/x86/Debug/Bibliotheek.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Bibliotheek/Bibliotheek/obj/x86/Debug/Bibliotheek.pdb

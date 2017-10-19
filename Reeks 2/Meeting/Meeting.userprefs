@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{453FBD55-1DB4-4B98-B630-421B2515D6A6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Meeting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Meeting/Program.cs">
+    <Files>
+      <File FileName="Meeting/Program.cs" Line="18" Column="117" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

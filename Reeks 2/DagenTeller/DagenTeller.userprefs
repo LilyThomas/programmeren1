@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FC1AB904-34A4-49F9-B560-471AFC398472}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DagenTeller/Program.cs">
+    <Files>
+      <File FileName="DagenTeller/Program.cs" Line="18" Column="117" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DagenTeller PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

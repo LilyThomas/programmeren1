@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/reeks 3/HotelKlokken/HotelKlokken/bin/Debug/HotelKlokken.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/HotelKlokken/HotelKlokken/bin/Debug/HotelKlokken.pdb
+/Users/lily/Documents/school/programmeren_1/reeks 3/HotelKlokken/HotelKlokken/obj/x86/Debug/HotelKlokken.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/reeks 3/HotelKlokken/HotelKlokken/obj/x86/Debug/HotelKlokken.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/HotelKlokken/HotelKlokken/obj/x86/Debug/HotelKlokken.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7E930B7F-9C8B-45E5-B527-A4D4A61C8B6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Meeting2/Program.cs">
+    <Files>
+      <File FileName="Meeting2/Program.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Meeting2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

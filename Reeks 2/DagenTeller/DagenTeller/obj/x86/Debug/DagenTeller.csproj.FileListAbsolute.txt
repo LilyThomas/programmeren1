@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 2/DagenTeller/DagenTeller/bin/Debug/DagenTeller.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/DagenTeller/DagenTeller/bin/Debug/DagenTeller.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 2/DagenTeller/DagenTeller/obj/x86/Debug/DagenTeller.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 2/DagenTeller/DagenTeller/obj/x86/Debug/DagenTeller.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/DagenTeller/DagenTeller/obj/x86/Debug/DagenTeller.pdb

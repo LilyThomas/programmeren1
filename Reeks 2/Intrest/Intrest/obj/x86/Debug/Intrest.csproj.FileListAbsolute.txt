@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Intrest/Intrest/bin/Debug/Intrest.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Intrest/Intrest/bin/Debug/Intrest.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Intrest/Intrest/obj/x86/Debug/Intrest.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Intrest/Intrest/obj/x86/Debug/Intrest.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 2/Intrest/Intrest/obj/x86/Debug/Intrest.pdb

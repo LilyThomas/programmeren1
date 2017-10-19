@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/ reeks 4/Oef15/Oef15/obj/x86/Debug/Oef15.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/ reeks 4/Oef15/Oef15/bin/Debug/Oef15.exe
+/Users/lily/Documents/school/programmeren_1/ reeks 4/Oef15/Oef15/bin/Debug/Oef15.pdb
+/Users/lily/Documents/school/programmeren_1/ reeks 4/Oef15/Oef15/obj/x86/Debug/Oef15.exe
+/Users/lily/Documents/school/programmeren_1/ reeks 4/Oef15/Oef15/obj/x86/Debug/Oef15.pdb

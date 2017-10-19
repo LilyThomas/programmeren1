@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/reeks 3/Schaakspel/Schaakspel/bin/Debug/Schaakspel.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Schaakspel/Schaakspel/bin/Debug/Schaakspel.pdb
+/Users/lily/Documents/school/programmeren_1/reeks 3/Schaakspel/Schaakspel/obj/x86/Debug/Schaakspel.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/reeks 3/Schaakspel/Schaakspel/obj/x86/Debug/Schaakspel.exe
+/Users/lily/Documents/school/programmeren_1/reeks 3/Schaakspel/Schaakspel/obj/x86/Debug/Schaakspel.pdb

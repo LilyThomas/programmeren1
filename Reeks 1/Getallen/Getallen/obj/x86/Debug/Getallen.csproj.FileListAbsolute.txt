@@ -1,0 +1,6 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/bin/Debug/Getallen.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/bin/Debug/Getallen.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/obj/x86/Debug/Getallen.csprojResolveAssemblyReference.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/obj/x86/Debug/Getallen.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/obj/x86/Debug/Getallen.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/Getallen/Getallen/obj/x86/Debug/Getallen.pdb

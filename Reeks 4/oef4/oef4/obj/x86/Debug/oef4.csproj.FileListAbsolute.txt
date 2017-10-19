@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 4/oef4/oef4/obj/x86/Debug/oef4.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 4/oef4/oef4/bin/Debug/oef4.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 4/oef4/oef4/bin/Debug/oef4.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 4/oef4/oef4/obj/x86/Debug/oef4.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 4/oef4/oef4/obj/x86/Debug/oef4.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F0AB6F59-1744-4408-9692-1C1E9EF39D50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visitekaartje/Program.cs">
+    <Files>
+      <File FileName="Visitekaartje/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Visitekaartje PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

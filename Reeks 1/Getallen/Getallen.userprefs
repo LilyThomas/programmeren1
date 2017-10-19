@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{67A7C769-F3CF-4E60-9C42-DE12424E95AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Getallen/Program.cs">
+    <Files>
+      <File FileName="Getallen/Program.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Getallen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{34158F74-1353-48CB-BD53-4BA4EDCFF032}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vierkant/Program.cs">
+    <Files>
+      <File FileName="Vierkant/Program.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Vierkant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

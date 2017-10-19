@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Reeks 1/BTW/BTW/bin/Debug/BTW.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/BTW/BTW/bin/Debug/BTW.pdb
+/Users/lily/Documents/school/programmeren_1/Reeks 1/BTW/BTW/obj/x86/Debug/BTW.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Reeks 1/BTW/BTW/obj/x86/Debug/BTW.exe
+/Users/lily/Documents/school/programmeren_1/Reeks 1/BTW/BTW/obj/x86/Debug/BTW.pdb

@@ -1,0 +1,5 @@
+/Users/lily/Documents/school/programmeren_1/Oef40/Oef40/bin/Debug/Oef40.exe
+/Users/lily/Documents/school/programmeren_1/Oef40/Oef40/bin/Debug/Oef40.pdb
+/Users/lily/Documents/school/programmeren_1/Oef40/Oef40/obj/x86/Debug/Oef40.csproj.CoreCompileInputs.cache
+/Users/lily/Documents/school/programmeren_1/Oef40/Oef40/obj/x86/Debug/Oef40.exe
+/Users/lily/Documents/school/programmeren_1/Oef40/Oef40/obj/x86/Debug/Oef40.pdb
